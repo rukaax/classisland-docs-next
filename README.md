@@ -9,6 +9,7 @@
 1. 安装 Node 20 环境（推荐使用NVM）
 2. 克隆并进入文档仓库
 3. 安装依赖（需要使用pnpm，可使用corepack安装）
+
    ```sh
    pnpm install
    ```
