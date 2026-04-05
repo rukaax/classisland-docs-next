@@ -14,7 +14,7 @@ export const zhSidebar = sidebar({
       text: "快速上手",
       children: [
         "README.md",
-        "deploy.md",
+        "setup.md",
         "basic.md"
       ],
     },
