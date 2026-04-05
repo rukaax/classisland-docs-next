@@ -24,6 +24,6 @@ category:
   <VPCard
     title="下载与安装"
     desc="下载并安装 ClassIsland 到您的设备，并将其拷贝并部署到学校大屏。"
-    link="./deploy.html"
+    link="./setup.html"
   />
 </div>

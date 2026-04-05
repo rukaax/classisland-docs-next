@@ -16,8 +16,6 @@ icon: code-commit
 
 本文档基于 [VuePress](https://vuepress.vuejs.org/) 搭建。了解 [VuePress](https://vuepress.vuejs.org/) 的用法对编写本文档很有帮助。
 
-本文档目前托管在 [GitHub Pages](https://pages.github.com/) 上。
-
 ## 贡献准则
 
 - 使用小写文件名
@@ -49,6 +47,10 @@ icon: code-commit
 - 编写简单易读的文档
 
     在编写文档时请尽量做到简单易读。必要时可以插入图片、Mermaid 图表等便于读者理解。
+
+- 经过格式化
+
+    文档汉字与数字和字母间应该有空格（可以使用 VS Code 插件 AutoCorrect 自动实现此格式化），且在提交审核前应该至少使用 markdownlint 格式化一遍，否则您的 Pull Request 可能会被打回更改。
 
 ## 合并更改
 
