@@ -17,7 +17,7 @@ category:
 
 ## 配置轮换周数
 
-**👉️ 点击托盘图标，点击【应用设置】按钮**
+**👉️ 点击托盘图标，点击【应用设置】选项**
 
 ![687](image/rotating-schedule/Pasted%20image%2020260404154143.png)
 
@@ -36,8 +36,9 @@ category:
 
 **👉️ 在弹出的页面配置时间表以及触发规则。**
 
+（框选的地方为触发规则）
 
-![](image/rotating-schedule/Pasted%20image%2020260404155317.png)
+![](image/classplan/Pasted%20image%2020260406233526.png)
 
 **👉️ 接下来，按照学校的课程规划录入本周课表。**
 
