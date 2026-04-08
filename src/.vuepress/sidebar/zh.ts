@@ -28,6 +28,7 @@ export const zhSidebar = sidebar({
           icon: "fa-solid fa-file-lines"
         },
         "components.md",
+        "notification.md",
         "outro.md"
       ],
     },

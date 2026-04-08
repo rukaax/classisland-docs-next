@@ -27,3 +27,17 @@ category:
     link="./setup.html"
   />
 </div>
+
+## 章节
+
+本教程分为以下章节：
+
+- [下载与安装](./setup.md)
+- [基本概念](./basic.md)
+- **编辑课表**
+    - 创建课表
+    - 多周轮换
+- [编辑组件](./components.md)
+- [上下课提醒](./notification.md)
+- 部署到班级大屏
+- [结语](./outro.md)
